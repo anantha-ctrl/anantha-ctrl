@@ -21,7 +21,7 @@ Welcome to my digital den! I'm a curious mind fueled by caffeine and code, const
 
 ### 📫 How to reach me:
 - Drop me a DM on [LinkedIn](https://www.linkedin.com/in/anantha-ctrl)
-- Or ping me via email: `anantha.dev[at]email.com`
+- Or ping me via email: `coding.anantha[at]gmail.com`
 
 ### 😄 Pronouns:
 He/Him — but mostly just call me Anantha.
