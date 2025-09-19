@@ -20,11 +20,11 @@ Welcome to my digital den! I'm a curious mind fueled by caffeine and code, const
 - AI-powered tools with purpose
 
 ### 📫 How to reach me:
-- Drop me a DM on [LinkedIn](https://www.linkedin.com/in/anantha-ctrl)
-- Or ping me via email: `coding.anantha[at]gmail.com`
+- Drop me a DM on [LinkedIn](https://www.linkedin.com/in/ananthakumarg/)
+- Or ping me via email: `coding.anantha@gmail.com``anantha130404@gmail.com`
 
 ### 😄 Pronouns:
-He/Him — but mostly just call me Anantha.
+He/Him — but feel free to call me Anantha.
 
 ### ⚡ Fun fact:
 I once debugged a stubborn CSS issue at 3 AM, and it turned out to be a missing semicolon. I still haven’t emotionally recovered.
